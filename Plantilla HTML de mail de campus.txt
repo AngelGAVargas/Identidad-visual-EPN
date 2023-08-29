@@ -1,0 +1,76 @@
+<p dir="ltr" style="text-align: left;"></p>
+<p style="text-align: center;"><b><span lang="ES-MX">
+            <!--[if !vml]--><img src="https://raw.githubusercontent.com/AngelGAVargas/Identidad-visual-EPN/5716a67872ebfaa314c840d0612a143dff3a8030/8x%20mail/Recurso%205%404x-8-negativo.png" alt="" width="567" height="189" role="presentation" class="img-fluid atto_image_button_text-bottom">
+            <!--[endif]-->
+        </span></b><b><span lang="ES-MX"></span></b></p>
+
+<h3 style="text-align: center;"><b><span lang="ES-MX">¡Hola!</span></b></h3>
+
+<p style="text-align: center;"><span lang="ES-MX">Te damos la bienvenida a la Plataforma Virtual
+        de la</span></p>
+<p style="text-align: center;"><span lang="ES-MX"><b>Escuela Penitenciaria de la Nación <i>“Dr. Juan José O’Connor”</i></b></span></p>
+
+<p style="text-align: center;"><span lang="ES-MX">Tu usuario en el Campus Virtual ha sido creado
+        con las siguientes credenciales:</span></p>
+<p style="text-align: center;"><span lang="ES-MX"><br>
+    </span></p>
+<table border="1" style="text-align: center; margin-left:auto; margin-right:auto; width: 70%;">
+    <caption>
+        <h4 style="text-align: left;">
+            <p style="text-align: center;"><span lang="ES-MX" style="font-size: 1.40625rem;">Sitio:&nbsp;</span><a href="https://campusepn.spf.gob.ar/" style="font-size: 1.40625rem; background-color: rgb(255, 255, 255);"><span lang="ES-MX">https://campusepn.spf.gob.ar/</span></a></p><span lang="ES-MX">
+                <p style="text-align: center;"><span style="font-size: 1.40625rem;">Usuario:
+                    </span><b style="font-size: 1.40625rem;">TU DNI (SIN PUNTOS)</b></p>
+            </span><span lang="ES-MX">
+                <p style="text-align: center;"><span style="font-size: 1.40625rem;">Contraseña:&nbsp;</span><b style="font-size: 1.40625rem;">TU DNI (SIN PUNTOS)</b></p>
+            </span>
+        </h4>
+        <p style="text-align: left;"><span lang="ES-MX"></span></p>
+
+
+
+
+    </caption>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+    </tbody>
+</table>
+<p style="text-align: center;"><br></p>
+
+<h4 style="text-align: center;"><b><span lang="ES-MX">LAS AULAS
+            VIRTUALES CORRESPONDIENTES</span></b></h4>
+<h4 style="text-align: center;"><b><span lang="ES-MX">YA HAN SIDO HABILITADAS</span></b></h4>
+<p style="text-align: center;"><b><span lang="ES-MX"><br></span></b></p>
+
+<p style="text-align: center;"><span lang="ES-MX">Te recomendamos que ingreses una vez leído este
+        correo.&nbsp;</span><b style="font-size: 0.9375rem;"><i>En el primer ingreso</i></b></p>
+<p style="text-align: center;"><b style="font-size: 0.9375rem;"><i>el sistema te solicitara cambiar de forma
+            obligatoria tu contraseña,</i></b></p>
+<p style="text-align: center;"><b style="font-size: 0.9375rem;"><i>una vez hecho el cambio tendrás que ingresar
+            devuelta con la contraseña elegida.</i></b></p>
+<p style="text-align: center;"><b style="font-size: 0.9375rem;"><i><br></i></b></p>
+
+<p style="text-align: center;"><span lang="ES-MX">En la sección de “<i>Área personal</i>” Podrás
+        visualizar el modulo de&nbsp;</span><span style="font-size: 0.9375rem;">“</span><i style="font-size: 0.9375rem;">vista general de cuso</i><span style="font-size: 0.9375rem;">”</span></p>
+<p style="text-align: center;"><span style="font-size: 0.9375rem;">donde encontraras todas
+        las aulas virtuales&nbsp;</span><span style="font-size: 0.9375rem;">en las que estas matriculado.</span></p>
+<p style="text-align: center;"><span style="font-size: 0.9375rem;"><br></span></p>
+
+<p style="text-align: center;"><b><span lang="ES-MX">Por cualquier consulta técnica, de la
+            plataforma o inquietudes de&nbsp;</span></b><b style="font-size: 0.9375rem;"><span lang="ES-MX">esta&nbsp;</span></b><b style="font-size: 0.9375rem;"><span lang="ES-MX">podrás</span></b></p>
+<p style="text-align: center;"><b style="font-size: 0.9375rem;"><span lang="ES-MX">contactarte con nosotras a través del
+            siguiente correo: </span></b><a href="mailto:estudiosepn@spf.gob.ar" style="font-size: 0.9375rem; background-color: rgb(255, 255, 255);"><span lang="ES-MX">estudiosepn@spf.gob.ar</span></a></p>
+<p style="text-align: center;"><span lang="ES-MX" style="font-size: 0.9375rem;">colocando en el asunto del mismo “<b>Problema
+            con el campus virtual” </b>y&nbsp;</span><span style="font-size: 0.9375rem;">en</span></p>
+<p style="text-align: center;"><span style="font-size: 0.9375rem;">el cuerpo del mensaje tus datos y detallando el
+        problema ocurrido o la inquietud.</span></p>
+<p style="text-align: center;"><span style="font-size: 0.9375rem;"><br></span></p>
+
+<p style="text-align: center;"><span lang="ES-MX">
+        <!--[if !vml]--><img src="https://raw.githubusercontent.com/AngelGAVargas/Identidad-visual-EPN/5716a67872ebfaa314c840d0612a143dff3a8030/8x%20mail/Recurso%206%404x-8-negativo.png" alt="
+
+Descripción generada automáticamente" width="567" role="presentation" class="img-fluid atto_image_button_text-bottom">
+    </span></p><br>
+<p></p>
